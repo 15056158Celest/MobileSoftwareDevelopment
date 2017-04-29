@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home" android:id="@+id/mnu1" />
+    <item android:title="Course Information" android:id="@+id/mnu2" />
+    <item android:title="Course Structure" android:id="@+id/mnu3" />
+    <item android:title="Contact Us" android:id="@+id/mnu4" />
+
+
+</menu>
